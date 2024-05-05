@@ -6,7 +6,8 @@
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am left handed so I am pretty intelligent, sorry I don't make the rules.
 - I am a First Generation college graduate, I graduated from the University of Texas at El Paso with a BBA-Marketing 
-- I am the only girl in a family filled with boys 
+- I am the only girl in a family filled with boys
+  
 AdriannaLorraine/AdriannaLorraine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
